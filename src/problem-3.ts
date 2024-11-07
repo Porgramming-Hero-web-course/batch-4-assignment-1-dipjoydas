@@ -10,5 +10,5 @@
 
  }
 
- console.log( countWordOccurrences('I am developer and who are you Developer and Ideveloper','Developer'))
+ console.log( countWordOccurrences('I love typescript','typescript'))
 }
